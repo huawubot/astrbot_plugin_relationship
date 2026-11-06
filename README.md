@@ -31,12 +31,6 @@ _✨ 人际关系管理器 ✨_
 ## 安装
 
 - 在 AstrBot 插件市场搜索 `astrbot_plugin_relationship` 一键安装。
-- 或手动克隆到插件目录：
-
-```bash
-cd /AstrBot/data/plugins
-git clone https://github.com/Zhalslar/astrbot_plugin_relationship
-```
 
 ## 配置
 
@@ -101,4 +95,5 @@ git clone https://github.com/Zhalslar/astrbot_plugin_relationship
 
 - 如果未配置 `manage_group` 且无管理员 ID，将无法发送审核与通知消息。
 - 想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561（不点star不给进）
-- 若想使用 `加好友、加群` 功能，请进群联系 Zhalsalr 请求分享data\plugins\astrbot_plugin_relationship\core\expansion.py中缺失的源码，源码仅对开发圈的小团体用户开放，闲人勿扰。
+-  `加好友、加群` 功能属于敏感功能，故不开源（data\plugins\astrbot_plugin_relationship\core\expansion.py中缺失部分源码）。
+- 如有需求，请联系维护者`Zhalslar（QQ:2936169201）`获取，经维护者评估来决定是否分享插件中缺失的源码。
