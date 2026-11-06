@@ -4,3 +4,5 @@ core/expansion/handle.py
 core/expansion/protobuf.py
 core/expansion/__init__.py
 core/expansion.py
+core/_relationship_native*.pyd
+core/_relationship_native*.so
